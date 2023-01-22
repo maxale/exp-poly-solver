@@ -1,1 +1,1 @@
-# exp-poly-solver
+# Solver for exponential-polynomial equations
